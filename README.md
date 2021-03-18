@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img alt="DotInversion" src=".github/dot_inversion.gif" width="50%">
+  <img alt="DotInversion" src=".github/dot_inversion.gif" width="100%">
 </p>
 
 ## :rocket: Tecnologias
